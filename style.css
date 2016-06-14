@@ -19,7 +19,9 @@ div {
 
 div.blue { background-color: blue; }
 
-.green { background-color: green; }
+div.green { background-color: green; }
+
+div.teal { background-color: teal; }
 
 .invisible {
   display: none;
