@@ -40,18 +40,3 @@ function makeVisible () {
 
   visible[0].classList.add('visible')
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
